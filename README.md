@@ -1,2 +1,2 @@
-# Data Analysis Project - Based on COVID Singapore Data (2020 - 2021)
+# COVID Data Analysis Project - Based on Singapore Data
 
