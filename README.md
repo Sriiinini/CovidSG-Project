@@ -5,7 +5,7 @@ This project serves as a personal showcase and provides an overview of my contri
 Due to the confidential nature of my actual work, I've employed public datasets available online, which sources data from daily Press Releases on the Covid-19 situation in Singapore.
 
 ## Data Sources:
-- [COVID-19 Singapore](https://data.world/hxchua/covid-19-singapore) - Time series data on Covid-19 cases in Singapore (includes confirmed, discharged, hospitalised, deaths and imported cases)
+- [COVID-19 Singapore](https://data.world/hxchua/covid-19-singapore) - Time series data on Covid-19 cases in Singapore (includes confirmed, discharged, hospitalised cases etc.)
 - [Covid-19 Deaths in Singapore](https://data.world/tws4793/covid-19-deaths-singapore) - Summary of all deaths attributable to complications from Covid-19.
 
 ## Key Highlights:
