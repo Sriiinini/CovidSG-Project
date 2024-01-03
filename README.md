@@ -6,7 +6,7 @@ Due to the confidential nature of my actual work, I've employed public datasets 
 
 ## Data Sources:
 - [COVID-19 Singapore](https://data.world/hxchua/covid-19-singapore) - Time series data on Covid-19 cases in Singapore on counts of confirmed, discharged, hospitalised, deaths and imported cases.
-- [Covid-19 Deaths in Singapore] (https://data.world/tws4793/covid-19-deaths-singapore) - Summary of all deaths attributable to complications from Covid-19.
+- [Covid-19 Deaths in Singapore](https://data.world/tws4793/covid-19-deaths-singapore) - Summary of all deaths attributable to complications from Covid-19.
 
 ## Key Highlights:
 
