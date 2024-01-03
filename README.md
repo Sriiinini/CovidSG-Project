@@ -2,7 +2,7 @@
 
 Amid the global spread of COVID, countries worldwide began disseminating data to the public to track the virus's transmission. Each country introduced its own version of a COVID dashboard, which provided real-time insights to help people assess risk and understand what’s happening near them. 
 
-Project Overview:
+## Project Overview:
 This project serves as a personal showcase and provides an overview of my contributions during my time in COVID Operations in Singapore. Meant as a demonstration, it provides a glimpse into the impactful work I undertook and the value I brought to my team. The valuable insights derived from this project provides a good understanding of the pandemic's impact in Singapore during the period of 2020-2021. 
 
 Due to the confidential nature of my actual work, I've employed public datasets available online, which pulled data from daily Press Releases on the Covid-19 situation in Singapore.
