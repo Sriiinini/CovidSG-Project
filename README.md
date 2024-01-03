@@ -2,9 +2,7 @@
 
 ## Project Overview
 
-This project serves as a personal showcase of my contributions during my time in COVID Operations. Amid the global spread of COVID, countries worldwide began disseminating real-time data insights to help the public assess risk and understand local situations.
-
-Since my actual work is confidential, I can't share what I did during my work stint. So, this project acts as a demonstration, offering a glimpse into the important work I did and the value I brought to my team. The insights derived from this project help understand how the pandemic impacted Singapore from 2020 to 2021.
+Amid the global spread of COVID-19, I had the privilege of contributing to the COVID operations in Singapore. While the specifics of my work remain confidential, it was focused towards disseminating real-time data insights. This project serves as a demonstration of the invaluable contributions made during my work stint. The insights derived from this project will provide a good understanding of how the pandemic impacted Singapore from 2020 to 2021.
 
 I've employed public datasets available online, which sourced data from daily Press Releases on the Covid-19 situation in Singapore.
 
