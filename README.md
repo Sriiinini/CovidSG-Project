@@ -8,7 +8,7 @@ Since my actual work is confidential, I can't share what I did during my work st
 
 ## Data Sources
 
-Due to the confidential nature of my actual work, I've employed public datasets available online, which pulled data from daily Press Releases on the Covid-19 situation in Singapore.
+I've employed public datasets available online, which sourced data from daily Press Releases on the Covid-19 situation in Singapore.
 
 - [COVID-19 Singapore](https://data.world/hxchua/covid-19-singapore): Time series data on Covid-19 cases in Singapore
 - [Covid-19 Deaths in Singapore](https://data.world/tws4793/covid-19-deaths-singapore): Summary of all deaths attributable to complications from Covid-19.
