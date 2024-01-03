@@ -1,4 +1,4 @@
-# COVID Data Analysis Project - Based on Singapore Data
+# Unveiling Insights of Singapore's COVID Pandemic (2020-2021)
 
 ## Project Overview
 
