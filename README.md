@@ -2,9 +2,9 @@
 
 ## Project Overview
 
-This project serves as a personal showcase of my contributions during my time in COVID Operations. Amid the global spread of COVID, countries worldwide began disseminating data to the public to track the virus's transmission. Each country introduced its own version of a COVID dashboard, providing real-time insights to help people assess risk and understand local situations.
+This project serves as a personal showcase of my contributions during my time in COVID Operations. Amid the global spread of COVID, countries worldwide began disseminating real-time data insights to help the public assess risk and understand local situations.
 
-Meant as a demonstration, it provides a glimpse into the impactful work I undertook and the value I brought to my team. The valuable insights derived from this project provides a good understanding of the pandemic's impact during the period of 2020-2021 in Singapore. 
+Because my actual work is confidential, I can't share what I did during my work stint. So, this project acts as a demonstration, offering a glimpse into the important work I did and the value I brought to my team. The valuable insights from this project help understand how the pandemic impacted Singapore from 2020 to 2021.
 
 ## Data Sources
 
