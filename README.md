@@ -14,7 +14,7 @@ This project serves as a personal showcase of my contributions during my time in
 ## Key Highlights
 
 - Using **Python**, I meticulously cleaned and visualized the trends and patterns of COVID cases in Singapore.
-- Went an extra mile to utilize Google's Geolocation API for location mapping of COVID Cases.
+- Went an extra mile to utilize **Google's Geolocation API** for location mapping of COVID Cases.
 - Seized the opportunity to learn a new skill: **Power BI** for interactive visualizations.
 
 I hope this project not only reflects my capabilities but also serves as an informative and engaging resource for those interested in the field of COVID data analysis. Happy exploring! 📊🔍
