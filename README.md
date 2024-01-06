@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-Amid the global spread of COVID-19, I had the privilege of contributing to the COVID operations in Singapore. Though the specifics of my work are confidential, itscore focus was on delivering real-time data insights. This project serves as a demonstration of the invaluable contributions made during my work stint. The insights derived from this project will provide a good understanding of how the pandemic impacted Singapore from 2020 to 2021.
+Amid the global spread of COVID-19, I had the privilege of contributing to the COVID operations in Singapore. Though the specifics of my work are confidential, it's core focus was on delivering real-time data insights. This project serves as a demonstration of the invaluable contributions made during my work stint. The insights derived from this project will provide a good understanding of how the pandemic impacted Singapore from 2020 to 2021.
 
 I've employed public datasets available online, which sourced data from daily Press Releases on the Covid-19 situation in Singapore.
 
